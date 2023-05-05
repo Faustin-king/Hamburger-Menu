@@ -4,3 +4,10 @@
   --overlay-color: rgba(24, 39, 52, 0.85);
   --menu-speed: 0.75s;
 }
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
