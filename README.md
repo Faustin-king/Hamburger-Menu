@@ -8,9 +8,6 @@ This is a simple project that demonstrates how to create a responsive hamburger 
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
