@@ -109,6 +109,7 @@
   height: 200vw;
   border-radius: 50%;
   display: flex;
+  flex: none;
   align-items: center;
   justify-content: center;
   transform: scale(0);
