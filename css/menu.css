@@ -55,7 +55,7 @@
   height: 2px;
   background: inherit;
 }
-
+/* Moves Line Down */
 .menu-wrap .hamburger > div::after {
   top: 10px;
 }
@@ -64,7 +64,7 @@
 .menu-wrap .toggler:checked + .hamburger > div {
   transform: rotate(135deg);
 }
-
+/* Turns Lines into X */
 .menu-wrap .toggler:checked + .hamburger > div::before,
 .menu-wrap .toggler:checked + .hamburger > div::after {
   top: 0;
