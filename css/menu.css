@@ -93,6 +93,7 @@
   background: var(--overlay-color);
   width: 200vw;
   height: 200vw;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
