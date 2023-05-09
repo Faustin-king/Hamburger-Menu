@@ -119,3 +119,7 @@
   text-decoration: none;
   transition: color 0.4s ease;
 }
+
+.menu-wrap .menu > div > div > ul > li > a:hover {
+  color: var(--secondary-color);
+}
